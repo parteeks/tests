@@ -1,0 +1,7 @@
+coverage/
+daily_test
+db/development.sqlite3
+db/test.sqlite3
+log/
+script/
+tmp/
